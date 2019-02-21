@@ -1,2 +1,5 @@
 Gitの練習
-基本フローの学習をしま～す
+基本的なワークフローを学びます
+・git add
+・git commit
+・git rm
